@@ -79,7 +79,7 @@ int main() {
 	};
 
 	for (int i = 0; i < 10; i++) {
-		bankAccount[i].update_bal();
+		//bankAccount[i].update_bal();
 		bankAccount[i].print();
 	};
 	return 0;
